@@ -37,6 +37,17 @@
 
 2. Install Python on Linux Distribution
     - Linux Distribution already has python version installed.
+    - Open your terminal, `Ctrl + Alt + T`
+    - Update your local system's repository
+        - `sudo apt update`
+    - Download the latest version of Python3
+        - `sudo apt install python3`
+    - apt will find the packages, and install python in your system
 
 2. Install Jupyter Notebook
     - 
+
+
+## References
+- https://www.digitalocean.com/community/tutorials/install-python-windows-10
+- https://www.makeuseof.com/install-python-ubuntu/
