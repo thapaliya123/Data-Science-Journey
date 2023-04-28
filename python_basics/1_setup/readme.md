@@ -44,8 +44,19 @@
         - `sudo apt install python3`
     - apt will find the packages, and install python in your system
 
-2. Install Jupyter Notebook
-    - 
+3. Jupyter Lab Vs Jupyter Notebook
+    - Jupyter Lab is advanced version of Jupyter Notebook. 
+    - **Install Jupyter Lab**
+        - pip install jupyter lab
+        - jupyter lab
+    - **Install Jupyter Notebook**
+        - pip install notebook
+        - jupyter notebook
+
+4. Download IDE (VSCode)
+    - Vist https://code.visualstudio.com/download
+    - Download and Install for your favourite Operating System
+    - Run Vscode.
 
 
 ## References
