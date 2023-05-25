@@ -59,6 +59,22 @@
     - Run Vscode.
 
 
+5. Google Colab
+    - According to documentation, Colab or Colaboratory allows you to write and execute Python in your browser.
+    - `features:`
+        - Zero Configuration required
+        - Access to GPUs free of charge
+        - Easy sharing
+
+    - `Steps:`
+        1. Visit: https://colab.research.google.com/
+        - <img src='images/6.png' width="400">
+        2. Sign in with your credentials
+        - <img src="images/8.png" width="400">
+        3. After Sign in success, 
+        - <img src="images/7.png" width="400">
+
 ## References
 - https://www.digitalocean.com/community/tutorials/install-python-windows-10
 - https://www.makeuseof.com/install-python-ubuntu/
+    
