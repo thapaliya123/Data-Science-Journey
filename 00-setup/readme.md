@@ -51,7 +51,7 @@
         - jupyter lab
     - **Install Jupyter Notebook**
         - pip install notebook
-        - jupyter notebook
+        - jupyter notebooks
 
 4. Download IDE (VSCode)
     - Vist https://code.visualstudio.com/download
