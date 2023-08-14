@@ -13,7 +13,7 @@ URLS = [
 ]
 
 async def fetch_data(url):
-    print(url)
+    print(urlx``)
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as response:
             return await response.text()
